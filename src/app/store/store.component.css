@@ -1,0 +1,27 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.heading{
+    color: white;
+    background-color: rgb(27, 104, 128);
+    padding: 10px;
+    border-radius: 10px;
+}
+.paragraph{
+    margin: 10px;
+    font-size: 20px;
+}
+.buy{
+    border: none;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+}
+.product{
+    margin: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+}
